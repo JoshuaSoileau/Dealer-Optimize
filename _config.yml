@@ -39,10 +39,10 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: joshsoileau
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-74850620-1"
 
 # Category descriptions (for archive pages)
 descriptions:
