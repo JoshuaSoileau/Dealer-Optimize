@@ -3,6 +3,7 @@
 # Compiled site
 _site
 .idea/
+.idea/workspace.xml
 # Sass garbage
 .sass-cache
 
